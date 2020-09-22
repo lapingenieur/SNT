@@ -2,6 +2,10 @@
 
 > (Ou tutoriels...)
 
+## Important :
+
+Si vous êtes sur portable et que les dossiers ne s'affichent pas, cliquer sur `View code`
+
 ## Comment trouver la correction d'une fiche ?
 
 1. Aller dans le dossier correspondant au n° du theme/chapitre
