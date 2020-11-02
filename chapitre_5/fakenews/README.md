@@ -9,3 +9,4 @@
 
 ### Sauvergarder le site une première fois
 
+![image 1](./delta-1.png)
