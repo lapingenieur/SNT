@@ -9,8 +9,8 @@
 
 ---
 
-![image 1](./delta-1.png)
-
+> ![image 1](./delta-1.png)
+> 
 > Le site de l'exemple.
 
 ### Sauvergarder le site une première fois
