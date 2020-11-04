@@ -2,6 +2,14 @@
 
 ### Sommaire :
 
+* [Les prérequis](#Prerequis)
+  * [Comment sauvegarder le site une première fois]()
+  * [Ouvrir la page (locale)]()
+* [Comment modifier un élément de la page web]()
+  * [Ouvrir « l'inspecteur »]()
+  * [Comment changer du texte]()
+  * [Enregistrer le travail]()
+
 ## Prérequis
 
 * google chrome (version ordinateur)
@@ -31,9 +39,11 @@ Une page avec le site web devrait s'afficher dans google chrome. Si la page s'af
 
 ## Modifier un élément de la page
 
+### Ouvrir l'*inspecteur*
+
 Pour changer un élément (= une partie) de la page, il faut :
 
-1. faire un clic droit sur la partie à modifier
+1. faire un clic droit sur la partie à modifier (par ex. le titre : "L’ouragan Delta s’éloigne" etc)
 2. choisir `Inspecter` (voir image dessous)
 
 => Un volet s'ouvre à droite (ou ailleurs) dans google chrome : c'est l'inspecteur. Il permet de modifier la page "en direct". Il est coupé en trois parties :
@@ -42,8 +52,34 @@ Pour changer un élément (= une partie) de la page, il faut :
 * Au milieu, il y a un éditeur de style. On n'en l'utilise pas là.
 * En bas, la console et les nouveautés. Pareil, cette partie nous on s'en fiche.
 
+> INFO: quand vous passez la souris sur un élément dans l'inspecteur, l'élément est surligné sur la page même, c'est partique pour trouver les éléments.
+
 ![image 4](./delta-4.png)
 
 ![image 5](./delta-5.png)
 
 > Vous pouvez redimensionner les différentes parties du volet pour mieux voir de la même façon qu'on redimensionne une fenêtre dans windows
+
+### Changer du texte
+
+La partie sélectionnée par l'inspecteur est sur fond gris ou bleu. Puisqu'on a cliqué directement sur l'élément qu'on veut modifier, l'inspecteur le sélectionne automatiquement :
+
+![image 6](./delta-6.png)
+
+Dans un fichier `.html`, le texte est prèsque **toujours** entre les signes `>` et `<`. Ici, le titre ("L’ouragan Delta s’éloigne" etc) est bien présent dans le code. Pour le changer, il suffit de double cliquer **sur le texte**, faire la modif, puis appuyer sur la touche `Entrée`.
+
+![image 7](./delta-7.png)
+
+Ca marche pareil pour le texte en parapraphe. Le seul truc un peu spécial, c'est que vous ne **pouvez pas aller à la ligne juste en appuyant sur `Entrée`** : il vaut mieux ne pas essayer et juste suivre l'article original.
+
+### Enregistrer les modifs
+
+Une fois quelques modifications faites, je vous conseille **fortement** d'enregistrer la page. C'est la même manip que celle plus haut, à savoir clic droit > `Enregistrer sous...`
+
+> Vous pouvez chager le nom du fichier en l'enregistrant, ou même l'enregistrer à la place de l'ancienne version, mais **ne faites pas comme moi** et faites plusieurs sauvegardes pour ne pas tout perdre ^^ !
+
+---
+
+Pour que le site marche bien, il lui faudra sûrement le dossier téléchargé en plus de la page même (si il y en a un bien sûr) : donc vous pouvez envoyer au prof le fichier `.html` *seul*, puis après avec son dossier (par ex. dans un autre message).
+
+Demandez moi si vous avez des questions !
