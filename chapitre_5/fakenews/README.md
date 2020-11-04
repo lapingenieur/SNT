@@ -2,14 +2,14 @@
 
 ### Sommaire :
 
-* [Les prérequis](#Prerequis)
-  * [Comment sauvegarder le site une première fois]()
-  * [Ouvrir la page (locale)]()
-* [Comment modifier un élément de la page web]()
-  * [Ouvrir « l'inspecteur »]()
-  * [Comment changer du texte]()
-  * [Enregistrer le travail]()
-* [Quelques infos en plus]()
+* [Les prérequis](https://github.com/lapingenieur/SNT/blob/master/chapitre_5/fakenews/README.md#pr%C3%A9requis)
+  * [Comment sauvegarder le site une première fois](https://github.com/lapingenieur/SNT/blob/master/chapitre_5/fakenews/README.md#sauvergarder-le-site-une-premi%C3%A8re-fois)
+  * [Ouvrir la page (locale)](https://github.com/lapingenieur/SNT/blob/master/chapitre_5/fakenews/README.md#ouvrir-la-page-locale)
+* [Comment modifier un élément de la page web](https://github.com/lapingenieur/SNT/blob/master/chapitre_5/fakenews/README.md#modifier-un-%C3%A9l%C3%A9ment-de-la-page)
+  * [Ouvrir « l'inspecteur »](https://github.com/lapingenieur/SNT/blob/master/chapitre_5/fakenews/README.md#ouvrir-linspecteur)
+  * [Comment changer du texte](https://github.com/lapingenieur/SNT/blob/master/chapitre_5/fakenews/README.md#changer-du-texte)
+  * [Enregistrer le travail](https://github.com/lapingenieur/SNT/blob/master/chapitre_5/fakenews/README.md#enregistrer-les-modifs)
+* [Quelques infos en plus](https://github.com/lapingenieur/SNT/blob/master/chapitre_5/fakenews/README.md#infos-suppl%C3%A9mentaires)
 
 ## Prérequis
 
