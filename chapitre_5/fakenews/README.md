@@ -9,6 +9,7 @@
   * [Ouvrir « l'inspecteur »]()
   * [Comment changer du texte]()
   * [Enregistrer le travail]()
+* [Quelques infos en plus]()
 
 ## Prérequis
 
@@ -79,6 +80,8 @@ Une fois quelques modifications faites, je vous conseille **fortement** d'enregi
 > Vous pouvez chager le nom du fichier en l'enregistrant, ou même l'enregistrer à la place de l'ancienne version, mais **ne faites pas comme moi** et faites plusieurs sauvegardes pour ne pas tout perdre ^^ !
 
 ---
+
+## Infos supplémentaires
 
 Pour que le site marche bien, il lui faudra sûrement le dossier téléchargé en plus de la page même (si il y en a un bien sûr) : donc vous pouvez envoyer au prof le fichier `.html` *seul*, puis après avec son dossier (par ex. dans un autre message).
 
