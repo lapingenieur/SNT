@@ -28,3 +28,22 @@ Il suffit de cliquer *droit* n'importe où sur la page et de sélectionner `Enre
 ![image 3](./delta-3c.png)
 
 Une page avec le site web devrait s'afficher dans google chrome. Si la page s'afficher mal (*vraiment* mal), il vaut mieux prendre un autre site...
+
+## Modifier un élément de la page
+
+Pour changer un élément (= une partie) de la page, il faut :
+
+1. faire un clic droit sur la partie à modifier
+2. choisir `Inspecter` (voir image dessous)
+
+=> Un volet s'ouvre à droite (ou ailleurs) dans google chrome : c'est l'inspecteur. Il permet de modifier la page "en direct". Il est coupé en trois parties :
+
+* En haut, avec le texte "Elements" souligné en ici bleu. C'est le code source de la page rendu plus lisible. C'est de ça qu'on aura le plus besoin.
+* Au milieu, il y a un éditeur de style. On n'en l'utilise pas là.
+* En bas, la console et les nouveautés. Pareil, cette partie nous on s'en fiche.
+
+![image 4](./delta-4.png)
+
+![image 5](./delta-5.png)
+
+> Vous pouvez redimensionner les différentes parties du volet pour mieux voir de la même façon qu'on redimensionne une fenêtre dans windows
